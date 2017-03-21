@@ -8,3 +8,6 @@
     
 
 </body>
+Stockholm School of Economics, The Swedish program	Stockholm, Sweden
+Relevent coursework: Economics of European Integration, Environmental Economics, 	Fall 2016
+	                             Comparative Public Policy: The Swedish Model in the 21st Century
