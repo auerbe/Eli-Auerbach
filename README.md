@@ -1,3 +1,6 @@
+<head>
+Eli Auerbach 
+</head>
 
 <h2 style="color:Black;">Education</h2>
 <body> 
